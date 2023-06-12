@@ -1,0 +1,56 @@
+h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 650;
+    text-align: center;
+    color: white;
+}
+
+.button{
+    height:4.5em;
+    width: 4.5em;
+    font-family: 'Inter', sans-serif;
+    padding: 35px;
+    margin: 5px 5px;
+    border-radius: 12px;
+    border: 1px solid #86878e;
+    cursor: pointer;
+    font-size: larger;
+    text-align: center;
+    color: #2B2D42;
+    background-color: whitesmoke;
+}
+
+/* .row{
+    margin: 15px 15px;
+} */
+
+.input{
+    border: 1px solid #86878e;
+    background-color: whitesmoke;
+    margin: 5px 5px;
+    width: 9.75em;
+    height: 2.5em;
+    font-family: 'Inter', sans-serif;
+    font-size: 2.5em;
+    font-weight: 350;
+    border-radius: 12px;
+    border: 1px solid rgb(164, 164, 164);
+}
+
+/* .doublesize{
+     width: 16.90vh; 
+    width: 9.75em;
+} */
+
+.container{
+    border-radius: 12px;
+    border: 1px solid #86878e; 
+    margin: 6.5vh auto;
+    padding-top: 5em;
+    padding-bottom: 3.5em;
+    background-color: #8D99AE;
+}
+
+body{
+    background-color: #2B2D42;
+}

@@ -1,0 +1,1 @@
+let string=""; //we set the default value of the input label to be null
